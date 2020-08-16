@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="msg_num">Enter A Number</string>
+    <string name="add">ADDITION</string>
+    <string name="subt">SUBTRACT</string>
+    <string name="mult">MULTIPLICATION</string>
+    <string name="div">DIVISIOn</string>
+    <string name="rem">remainder</string>
+</resources>
